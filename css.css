@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size:5px;	
+	 background-image:url(img/img1.png);
+	font-family:'Indie Flower', cursive;
+	font-size: 15px;
+	padding:10em;
+		text-align:center;
+	
+}
+
+section{
+	background-color:#287A8B;
+	text-align:center;
+	/*width:500px;*/
+	
+	padding:2px;
+    width:5px;
+	}
+	
+fieldset{
+	height:300px;
+	width:1200px;
+	}
